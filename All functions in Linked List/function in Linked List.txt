@@ -1,0 +1,11 @@
+functions in Linked list.
+1. printList(head); while(tmp!=null)
+2.addNode(head,10); if(head==null)
+3.addFirst(head,50);
+4.addAfter(head,data,afterdata);
+5.deleteFirst(head);if(head==null)return null;
+6.deleteLast();
+7.deleteAfter();
+8.count no. of nodes in LinkedList>
+9.Middle Node;
+10.Reverse a linked list.
